@@ -2,6 +2,8 @@
 Recent Client website
 https://www.thehardseller.com/
 
+Developed with love.
+
 ![lelionhome](https://user-images.githubusercontent.com/47675359/163751267-103ec931-516a-4734-a0a3-c89f253df8e0.PNG)
 
 ![abouthardseller](https://user-images.githubusercontent.com/47675359/163751275-15d4758d-8c22-4309-baad-d35f203848f0.PNG)
